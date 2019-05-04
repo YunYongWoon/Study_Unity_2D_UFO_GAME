@@ -64,6 +64,7 @@
     <Compile Include="Assets\_Completed-Assets\Scripts\CompleteCameraController.cs" />
     <Compile Include="Assets\_Completed-Assets\Scripts\CompletePlayerController.cs" />
     <Compile Include="Assets\_Completed-Assets\Scripts\CompleteRotator.cs" />
+    <Compile Include="Assets\Script\CameraController.cs" />
     <Compile Include="Assets\Script\PlayerController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\TutorialInfo.cs" />
     <None Include="Assets\TutorialInfo\Fonts\LICENSE.txt" />
